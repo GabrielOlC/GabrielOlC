@@ -4,9 +4,9 @@
 
 # 👨‍💻About Me
 
+<!--
 **TODOS**
 
-<!--
 - [ ] Maybe reframe the About me section (ex: About me | What i do | my passion etc) 
 
 - [ ] Update the repos and add to highlights
@@ -179,3 +179,5 @@ A VBA-based application to manage high-volume scheduling for animal welfare camp
     </td>
   </tr>
 </table>
+
+
