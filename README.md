@@ -116,27 +116,27 @@ I am currently developing a strategic framework to strengthen the Third Sector t
 -->
   <tr><tr><!--Empty to trigger git background-->
   <tr>
-    <td width="480" valign="top">
+    <td width="450" valign="top">
       <div align="center" valign="top">
-        <img src="./assets/img/JB-Ecommerce-ERP-Solutions.jpg" alt="JB Casa&Escritório Logo" width="480"><br>
+        <img src="./assets/img/JB-Ecommerce-ERP-Solutions.jpg" alt="JB Casa&Escritório Logo" width="450"><br>
         <h3><a href="https://github.com/GabrielOlC/JB-Ecommerce-ERP-Solutions" target="_blank">Enterprise Resource Planning & Management</a></h3>
       </div>
       <p align="justify">
 A tailored suite of ERPM tools designed to streamline operations, enhance accuracy, and boost profitability for an e-commerce startup. Built with MS Excel, VBA, Power Query (M), and Access, these automation-driven solutions optimize pricing, order processing, and financial reconciliation—empowering a small team to efficiently scale business.
       </p>
     </td>
-    <td width="480" valign="top">
+    <td width="450" valign="top">
       <div align="center">
-        <img src="./assets/img/L6S-Manufacturing-Optimization.jpg" alt="Repository illustration Photo" width="480"><br>
+        <img src="./assets/img/L6S-Manufacturing-Optimization.jpg" alt="Repository illustration Photo" width="450"><br>
         <h3><a href="https://github.com/GabrielOlC/L6S-Manufacturing-Optimization" target="_blank">Lean Six Sigma Process Optimization (DMAIC)</a></h3>
       </div>
       <p align="justify">
 Decoded and optimized undocumented manufacturing machinery, achieving a 90% waste reduction and a 150% productivity increase. Through systematic process analysis, reverse‑engineering, and optimization, the project transformed unreliable operations into a stable, efficient system with sustainable SOPs and long‑term reliability
       </p>
     </td>
-    <td width="480" valign="top">
+    <td width="450" valign="top">
       <div align="center">
-        <img src="./assets/img/Game-Data-Analytics-Engine.png" width="480"><br>
+        <img src="./assets/img/Game-Data-Analytics-Engine.png" width="450"><br>
        <h3><a href="https://github.com/GabrielOlC/Game-Data-Analytics-Engine" target="_blank">Game Data Analytics Engine (ROK)</a></h3>
       </div>
       <p align="justify">
@@ -165,3 +165,20 @@ An advanced tool for managing and analyzing Rise of Kingdoms KvK player performa
     </td>
   </tr>
 </table>
+
+<table>
+<!--Description up to 2 lines-->
+  <tr>
+    <td width="200" >
+      <img src="./assets/img/NGO-Campaign-Scheduler.jpg" alt="Repository illustration Photo" width="200" />
+    </td>
+    <td valign="top">
+      <h2><a href="https://github.com/GabrielOlC/NGO-Campaign-Scheduler" target="_blank" rel="noopener noreferrer">NGO Campaign & events Scheduler</a></h2>
+      <p align="justify">
+A VBA-based application to manage high-volume scheduling for animal welfare campaigns, featuring automated slot generation and dynamic communication.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
