@@ -4,9 +4,9 @@
 
 # 👨‍💻About Me
 
-<!--
 **TODOS**
 
+<!--
 - [ ] Maybe reframe the About me section (ex: About me | What i do | my passion etc) 
 
 - [ ] Update the repos and add to highlights
@@ -17,10 +17,11 @@
 
 - [ ] Update the repos and add to Others
 
-  - [ ]  Awards and achievements
+  - [ ] Awards and achievements
+  - [ ] File Password Manager
 
-- [ ]  Maybe remove Others from this main page and give it a special page, as well more details about me in a specific page]
--->
+- [ ] Maybe remove Others from this main page and give it a special page, as well more details about me in a specific page]
+  -->
 
 I specialize in **transforming operational complexity into scalable systems.**
 
@@ -149,8 +150,6 @@ An advanced tool for managing and analyzing Rise of Kingdoms KvK player performa
 
 # Other projects
 
-### File Password Manager
-
 <table>
 <!--Description up to 2 lines-->
   <tr>
@@ -180,5 +179,3 @@ A VBA-based application to manage high-volume scheduling for animal welfare camp
     </td>
   </tr>
 </table>
-
-
