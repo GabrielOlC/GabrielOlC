@@ -23,19 +23,21 @@
 - [ ] Maybe remove Others from this main page and give it a special page, as well more details about me in a specific page]
   -->
 
-I specialize in **transforming operational complexity into scalable systems.**
+I specialize in **transforming operational complexity into scalable, high-perfoming systems.**
 
-My work sits at the intersection of **Process Optimization, Data Analysis & Engineering, and Social Strategy**. I leverage a multidisciplinary stack to design robust solutions that empower organizations to move from reactive firefighting to structured, data-driven decision-making.
+My work sits at the intersection of **Process Optimization, Data Analysis & Engineering, and Social Strategy**. I leverage a multidisciplinary stack to design robust, practical solutions that empower organizations to move from reactive firefighting to structured, data-driven decision-making.
 
-I am eager to apply these engineering principles primarily to **socially impactful environments**, including philanthropic organizations and animal welfare networks, where operational efficiency directly translates into real-world results.
+What drives me most is applying these enginnering principles primarily to **socially impactful environmnets**—particularly interested in philanthropic organizations and animal-welfare netweorks—where operational efficiency directly translates into real-world results.
+
+
 
 **Core Philosophy:**
 
 > **"Reliability is not accidental — it is engineered."**  
 > 
-> I strive to combine **Engineering** rigor with **Systemic Thinking** (Society 5.0) to translate subjective intuition into measurable, resilient processes. 
+> I believe impactful systems come from combining **engineering** and **Society 5.0** principles with **systemic thinking**. It’s about turning intuition into something measurable, resilient, repeatable, and respectful.
 > 
-> **My goal is to build the infrastructure that allows empathy to scale.**
+> **My goal is to build systems where empathy is designed in, not left to chance.**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrieloc-eng" target="_blank">
@@ -102,7 +104,9 @@ I am eager to apply these engineering principles primarily to **socially impact
     <td valign="top">
       <h2><a href="https://github.com/GabrielOlC/BLUEPRINT-FOR-NGO-IMPACT_Pre-Publication-Abstract" target="_blank" rel="noopener noreferrer">Bluprint FOR NGO Impact</a></h2>
       <p align="justify">
-I am currently developing a strategic framework to strengthen the Third Sector through a Collaborative Ecosystem Model, using animal welfare as the pilot case to design scalable, intersectional solutions. Grounded in scientific research, this initiative replaces fragmented efforts with distributed competencies inspired by Holacracy and Society 5.0, enabling NGOs to share specialized expertise and optimize resources. Anchored in data-driven Dog Population Management, One Health principles, and diversified revenue models, the framework aims to build a self-managed, resilient ecosystem that amplifies collective impact and reduces single source dependencies.
+I am currently developing a strategic framework to strengthen the Third Sector through a Collaborative Ecosystem Model, using animal welfare as a pilot to design scalable, intersectional solutions. <br>
+Grounded in scientific research, the approach seeks to shift organizations away from fragmented efforts toward distributed and coordinated competencies. Inspired by Holacracy and Society 5.0, it enables NGOs to share specialized expertise, optimize resources, and operate more cohesively. <br>
+Anchored in data-driven Dog Population Management, One Health principles, and diversified revenue models, the framework aims to reduce reliance on single funding streams by building a self-managed, resilient ecosystem that amplifies capacity and collective impact.
       </p>
     </td>
   </tr>
@@ -179,5 +183,3 @@ A VBA-based application to manage high-volume scheduling for animal welfare camp
     </td>
   </tr>
 </table>
-
-
